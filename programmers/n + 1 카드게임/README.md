@@ -2,6 +2,7 @@
 
 ### 문제
 
+- https://school.programmers.co.kr/learn/courses/30/lessons/258707
 - 6 <= cards의 길이 n < 1000
   - cards[i]는 i+1번째로 뽑는 카드에 적힌 수
   - 1 <= cards[i] <= n
